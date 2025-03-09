@@ -1,4 +1,4 @@
-# intern_connection_b
+# Internet Connection with Bloc
 
 A new Flutter project.
 
